@@ -13,5 +13,3 @@ Miguel - github.com/monttmg7
 Thiago Joseph - github/Josephxxx
 <br>
 Emerson - github.com/emersonalveszx
-<br>
-Rebeca - github.com/Rebeca Cruz
