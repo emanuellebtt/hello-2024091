@@ -17,3 +17,5 @@ Emerson - github.com/emersonalveszx
 Rebeca - github.com/ricopipi
 <br>
 Sandro - github.com/sando209
+<br>
+Emanuelle - github.com/emanuellebtt
